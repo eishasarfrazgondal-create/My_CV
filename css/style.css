@@ -1,0 +1,22 @@
+header{
+    color: aliceblue;
+    background-color: #263b5e;
+    text-align: center;
+    padding: 10px;
+}
+
+footer{
+    color: aliceblue;
+    background-color: #263b5e;
+    text-align: center;
+    padding: 2px;
+}
+
+main{
+    color: rgb(0, 0, 0);
+    padding: 25px;
+    line-height: 30px;
+    max-width: 1000px;
+    margin: 30px auto;
+     background-color: white;
+}
