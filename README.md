@@ -30,3 +30,82 @@ Throughout the week, I worked on a personal portfolio, a CV page, and an accessi
 - **Lighthouse:** Auditing website accessibility.
 - **W3C Nu HTML Checker:** Validating HTML documents.
 - **Live Server:** Running web pages locally.
+
+
+Week 1: Learning and Tasks
+
+Monday — Introduction and Setup
+
+Learned how the web works.
+
+Understood the roles of clients and servers.
+
+Learned about URLs, DNS, HTTP, HTML, CSS, and JavaScript.
+
+Explored Git and GitHub.
+
+Set up the development environment.
+
+Tuesday — Git and GitHub
+
+Learned about working trees, staging, and repositories.
+
+Practiced Git commands.
+
+Explored branches, commits, pull requests, and merging.
+
+Practiced branch management and conflict handling.
+
+Wednesday — Semantic HTML5
+
+Learned about semantic HTML elements.
+
+Practiced structuring webpages.
+
+Worked on the CV webpage.
+
+Thursday — Forms and Accessibility
+
+Created a registration form using HTML.
+
+Practiced labels, input types, fieldsets, and legends.
+
+Tested accessibility using Lighthouse.
+
+Performed keyboard navigation and zoom testing.
+
+Friday — CSS and Portfolio
+
+Worked on basic CSS styling.
+
+Worked on the portfolio homepage.
+
+Reviewed the week's learning progress.
+
+Updated the README and learning log.
+
+
+## Accessibility Audit
+
+### 1. Lighthouse Accessibility Results
+
+| Page | Accessibility Score | Result | Findings |
+|---|---:|---|---|
+| `cv.html` | 92/100 | Passed | No issues reported. |
+| `register.html` | 97/100 | Passed | Missing `<main>` landmark was reported. |
+
+### 2. W3C Nu HTML Validation Results
+
+| Page | Result | Findings |
+|---|---|---|
+| `cv.html` | Passed | No validation errors found. |
+| `register.html` | Issues Found | A `<section>` element without a heading was reported. |
+
+
+### 3. Manual Accessibility Testing
+
+| Test | Page | Result | Findings |
+|---|---|---|---|
+| Keyboard Navigation | `register.html` | Passed | All form elements were accessible using keyboard navigation. |
+| Browser Zoom (200%) | `register.html` | Passed | Form remained readable and usable at 200% zoom. |
+| Color Contrast | `register.html` | Pending | Testing not completed yet. |
