@@ -32,9 +32,9 @@ Throughout the week, I worked on a personal portfolio, a CV page, and an accessi
 - **Live Server:** Running web pages locally.
 
 
-Week 1: Learning and Tasks
+**Week 1: Learning and Tasks**
 
-Monday — Introduction and Setup
+**Monday — Introduction and Setup**
 
 Learned how the web works.
 
@@ -46,7 +46,7 @@ Explored Git and GitHub.
 
 Set up the development environment.
 
-Tuesday — Git and GitHub
+**Tuesday — Git and GitHub**
 
 Learned about working trees, staging, and repositories.
 
@@ -56,16 +56,16 @@ Explored branches, commits, pull requests, and merging.
 
 Practiced branch management and conflict handling.
 
-Wednesday — Semantic HTML5
-
+<b>Wednesday — Semantic HTML5<b>
+**
 Learned about semantic HTML elements.
 
 Practiced structuring webpages.
 
 Worked on the CV webpage.
 
-Thursday — Forms and Accessibility
-
+**Thursday — Forms and Accessibility
+**
 Created a registration form using HTML.
 
 Practiced labels, input types, fieldsets, and legends.
@@ -74,8 +74,8 @@ Tested accessibility using Lighthouse.
 
 Performed keyboard navigation and zoom testing.
 
-Friday — CSS and Portfolio
-
+**Friday — CSS and Portfolio
+**
 Worked on basic CSS styling.
 
 Worked on the portfolio homepage.
